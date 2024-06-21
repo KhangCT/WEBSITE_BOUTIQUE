@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "66423e2b167d815fd7032eb6"
+  },
+  "userId": "663c37be9141a3e4920678f7",
+  "fullName": "Cao Tho Khang",
+  "totalPrice": 67770000,
+  "address": "56 ngo chi quoc",
+  "phone": "0354656813",
+  "delivery": "Waiting for progressing",
+  "status": "Waiting for pay",
+  "cart": {
+    "items": [
+      {
+        "productId": {
+          "$oid": "62ccd4665eefc71539bb6b4c"
+        },
+        "quantity": 2,
+        "_id": {
+          "$oid": "66423e2b167d815fd7032eb7"
+        }
+      },
+      {
+        "productId": {
+          "$oid": "62ccd8b55eefc71539bb6b52"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "66423e2b167d815fd7032eb8"
+        }
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66423ec5d49fd875dd3bc1bb"
+  },
+  "userId": "663c37be9141a3e4920678f7",
+  "fullName": "Cao Tho Khang",
+  "totalPrice": 67770000,
+  "address": "56 ngo chi quoc",
+  "phone": "0354656813",
+  "delivery": "Waiting for progressing",
+  "status": "Waiting for pay",
+  "cart": {
+    "items": [
+      {
+        "productId": {
+          "$oid": "62ccd4665eefc71539bb6b4c"
+        },
+        "quantity": 2,
+        "_id": {
+          "$oid": "66423ec5d49fd875dd3bc1bc"
+        }
+      },
+      {
+        "productId": {
+          "$oid": "62ccd8b55eefc71539bb6b52"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "66423ec5d49fd875dd3bc1bd"
+        }
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642db9c48d392e28cb88b36"
+  },
+  "userId": "663c37be9141a3e4920678f7",
+  "fullName": "Cao Tho Khang",
+  "totalPrice": 67770000,
+  "address": "56 ngo chi quoc",
+  "phone": "0354656813",
+  "delivery": "Waiting for progressing",
+  "status": "Waiting for pay",
+  "cart": {
+    "items": [
+      {
+        "productId": {
+          "$oid": "62ccd4665eefc71539bb6b4c"
+        },
+        "quantity": 2,
+        "_id": {
+          "$oid": "6642db9c48d392e28cb88b37"
+        }
+      },
+      {
+        "productId": {
+          "$oid": "62ccd8b55eefc71539bb6b52"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "6642db9c48d392e28cb88b38"
+        }
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642dc43ff91b8424ca5534b"
+  },
+  "userId": "663c37be9141a3e4920678f7",
+  "fullName": "Cao Tho Khang",
+  "totalPrice": 67770000,
+  "address": "56 ngo chi quoc",
+  "phone": "0354656813",
+  "delivery": "Waiting for progressing",
+  "status": "Waiting for pay",
+  "cart": {
+    "items": [
+      {
+        "productId": {
+          "$oid": "62ccd4665eefc71539bb6b4c"
+        },
+        "quantity": 2,
+        "_id": {
+          "$oid": "6642dc43ff91b8424ca5534c"
+        }
+      },
+      {
+        "productId": {
+          "$oid": "62ccd8b55eefc71539bb6b52"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "6642dc43ff91b8424ca5534d"
+        }
+      }
+    ]
+  },
+  "__v": 0
+}]

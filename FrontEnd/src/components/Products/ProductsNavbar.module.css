@@ -1,0 +1,8 @@
+ul li a:hover,
+ul a.active {
+  color: #e5ba57;
+}
+
+ul li a {
+  color: #979696;
+}

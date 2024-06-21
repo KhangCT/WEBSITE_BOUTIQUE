@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "663c37be9141a3e4920678f7"
+  },
+  "email": "khang@gmail.com",
+  "password": "$2b$12$Cgz4OIP.OmsPA0x5aHsOHupCCMUziK31ccYerlRigUgpHoOi9PKV.",
+  "fullName": "khangct",
+  "phone": "0123456789",
+  "role": "admin",
+  "cart": {
+    "items": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c395e36d55c28e64179ce"
+  },
+  "email": "khangct30@gmail.com",
+  "password": "$2b$12$v9dhomxhYWv6V5DdHvqDWeQ/gWFHdAyoCgNfl8t9KWEbZC4/JKd0W",
+  "fullName": "Cao Khang",
+  "phone": "0123456789",
+  "cart": {
+    "items": []
+  },
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1029898bc974b2f5cf64"
+  },
+  "email": "khangtele@gmail.com",
+  "password": "$2b$12$iEGvzp7B8dQ0fFnoaE/FVeR55iSYJEGp6BV1Eaxvf//5UZQnIoZIm",
+  "fullName": "Cao Khang",
+  "phone": "0123456789",
+  "role": "tele",
+  "cart": {
+    "items": []
+  },
+  "__v": 0
+}]
